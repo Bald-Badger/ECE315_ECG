@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=U3-7
+Removed Pin From Net: NetName=3V3 Pin=U4-8
+Added Pin To Net: NetName=A3V3 Pin=U3-7
+Added Pin To Net: NetName=A3V3 Pin=U4-8
+Added Room: Name=02 ECG Amplifier

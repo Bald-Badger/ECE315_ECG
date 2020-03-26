@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=* NewDesignator=P?
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R9-2
+Change Net Name : Old Net Name=Net*_0 New Net Name=NetP2_12
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetP2_11
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetP2_8
+Change Net Name : Old Net Name=Net*_5 New Net Name=NetP2_7
+Change Net Name : Old Net Name=Net*_6 New Net Name=NetP2_6
+Change Net Name : Old Net Name=Net*_7 New Net Name=NetP2_5
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetP2_4
+Change Net Name : Old Net Name=Net*_9 New Net Name=NetP2_3
+Added Room: Name=02 ECG Amplifier
+Added Room: Name=03 Peripherals

@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=MISO Pin=MCU1-15
+Added Pin To Net: NetName=MISO Pin=MCU1-15
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=MCU1-14
+Added Pin To Net: NetName=MOSI Pin=MCU1-14
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Net: Name=NetU2_8
+Added Pin To Net: NetName=SCLK Pin=MCU1-16
+Added Pin To Net: NetName=SCLK Pin=MCU1-16
+Added Net: Name=SCLK

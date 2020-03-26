@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=TP1-1
+Removed Pin From Net: NetName=3V3 Pin=TP4-1
+Removed Member From Class: ClassName=02 ECG Amplifier Member=TP1
+Removed Member From Class: ClassName=02 ECG Amplifier Member=TP4
+Added Room: Name=02 ECG Amplifier
+Added Room: Name=03 Peripherals

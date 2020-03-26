@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+I:\462\Lab 5 - Altium\BME462_PCB_2018_FINAL\Project Outputs for Free Documents\Pick Place\Pick Place for BME462.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/12/18
+Time:       09:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                  Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation Description               
+P2         "Proto Header"           TopLayer HDR1X12         2310.000      984.000       180      "Header, 12-Pin"          
+P3         7Segment                 TopLayer 7SegmentDisplay 2072.000      802.000       270      ""                        
+R9         Res-2.21k                TopLayer RESISTOR        1860.000      608.000       360      ""                        
+R8         Res-2.21k                TopLayer RESISTOR        2384.000      608.000       360      ""                        
+MCU1       "Nucleo F303K8_FINISHED" TopLayer Nucleo_F303K8   3728.000      1128.000      180      "Nucleo F303K8"           
+MH4        "Mounting Hole"          TopLayer Mounting_Hole   4288.000      3216.000      0        ""                        
+MH3        "Mounting Hole"          TopLayer Mounting_Hole   216.000       3216.000      0        ""                        
+MH2        "Mounting Hole"          TopLayer Mounting_Hole   216.000       216.000       0        ""                        
+MH1        "Mounting Hole"          TopLayer Mounting_Hole   4296.000      212.000       0        ""                        
+U1         TC962                    TopLayer DIP8            3806.000      2470.000      360      ""                        
+U3         TL072                    TopLayer DIP8            1886.000      1846.000      0        ""                        
+U2         LT1920                   TopLayer DIP8            1726.000      2546.000      0        ""                        
+TP12       TestPoint                TopLayer TestPoint       304.000       2296.000      90       ""                        
+TP11       TestPoint                TopLayer TestPoint       305.260       2496.315      90       ""                        
+TP8        TestPoint                TopLayer TestPoint       308.000       1436.000      90       ""                        
+TP7        TestPoint                TopLayer TestPoint       304.000       1744.000      90       ""                        
+TP6        TestPoint                TopLayer TestPoint       305.260       2696.315      90       ""                        
+TP5        TestPoint                TopLayer TestPoint       304.000       1592.000      90       ""                        
+TP3        TestPoint                TopLayer TestPoint       4337.260      2316.315      90       ""                        
+TP2        TestPoint                TopLayer TestPoint       305.260       1896.315      90       ""                        
+R7         Res-10k                  TopLayer RESISTOR        1892.000      1476.000      180      ""                        
+R6         20k                      TopLayer RESISTOR        2360.000      1812.000      90       ""                        
+R5         Res-10k                  TopLayer RESISTOR        2756.000      1812.000      90       ""                        
+R4         Res-10k                  TopLayer RESISTOR        1728.000      3116.000      180      ""                        
+R3         15k                      TopLayer RESISTOR        2484.000      2416.000      360      ""                        
+R2         20k                      TopLayer RESISTOR        2604.000      1812.000      90       ""                        
+R1         Res-3M                   TopLayer RESISTOR        1528.000      1812.000      90       ""                        
+P1         "Header 7X2"             TopLayer HDR2X7          2132.000      418.000       180      "Header, 7-Pin, Dual row" 
+L2         FerriteBead              TopLayer RESISTOR        3112.000      2004.000      360      ""                        
+L1         FerriteBead              TopLayer RESISTOR        3112.000      2208.000      360      ""                        
+C4         Cap                      TopLayer RAD-0.3         2136.000      2564.000      270      Capacitor                 
+C3         Cap                      TopLayer RAD-0.3         1372.000      1860.000      90       Capacitor                 
+C2         Cap-10u                  TopLayer Capacitor       3804.000      2080.000      360      ""                        
+C1         Cap-10u                  TopLayer Capacitor       3496.000      2416.000      90       ""                        
+H4         Header4x1                TopLayer 4_pin_header    714.000       372.000       90       ""                        

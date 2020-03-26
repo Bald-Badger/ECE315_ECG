@@ -1,0 +1,14 @@
+Added Component: Designator=MH1(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(Mounting Hole)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=03 Peripherals Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=03 Peripherals Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=03 Peripherals Member=Component MH3 Mounting Hole
+Added Member To Class: ClassName=03 Peripherals Member=Component MH4 Mounting Hole
+Added Room: Name=02 ECG Amplifier
+Added Room: Name=03 Peripherals

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: I:\462\Lab 5 - Altium\BME462_PCB_2018_FINAL\BME462.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=20.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Clearance|RuleName=Polygon_Clearance|Scope=Board|Minimum=15.00

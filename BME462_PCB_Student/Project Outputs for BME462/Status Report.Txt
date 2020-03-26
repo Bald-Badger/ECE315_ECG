@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ECG_Project.PrjPCB]
+   Generated File[myPCB-Plated.TXT]
+   Generated File[myPCB.DRL]
+   Generated File[myPCB.LDP]
+   Generated File[myPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:26:25 On 2019/10/30

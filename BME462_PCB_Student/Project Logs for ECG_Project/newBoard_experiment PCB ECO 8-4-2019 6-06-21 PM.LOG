@@ -1,0 +1,6 @@
+Added Component: Designator=U4(DIP8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU2_8 Pin=U4-5
+Added Pin To Net: NetName=NetU2_1 Pin=U4-6
+Added Pin To Net: NetName=A3V3 Pin=U4-8
+Added Member To Class: ClassName=02 ECG Amplifier Member=Component U4 McP4132

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BME462.PcbDoc   12/4/2018  9:59:22 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BME462.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      25mil (0.635mm)                                           Round             46        PTH        0.00inch (0.00mm)
+T2      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             26        PTH        0.00inch (0.00mm)
+T5      39mil (0.991mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             60        PTH        0.00inch (0.00mm)
+T7      50mil (1.27mm)                                            Round             12        PTH        0.00inch (0.00mm)
+T8      110mil (2.794mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              168
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=A3V3 Pin=R6-1
+Added Member To Class: ClassName=02 ECG Amplifier Member=Component MCU1 Nucleo F303K8_STUDENT
+Added Member To Class: ClassName=02 ECG Amplifier Member=Component U1 TC962
+Added Room: Name=02 ECG Amplifier

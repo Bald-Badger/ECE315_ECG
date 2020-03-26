@@ -1,0 +1,15 @@
+Added Component: Designator=*(7SegmentDisplay)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=5V Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=DisplaySCL Pin=*-10
+Added Pin To Net: NetName=DisplaySDA Pin=*-11
+Added Member To Class: ClassName=03 Peripherals Member=Component * 7Segment

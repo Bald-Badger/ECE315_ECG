@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP8
+Change Component Designator: OldDesignator=TP? NewDesignator=TP11
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Net Name : Old Net Name=NetTP?_1 New Net Name=NetTP8_1
+Added Pin To Net: NetName=NetTP11_1 Pin=TP11-1
+Added Pin To Net: NetName=NetTP11_1 Pin=U3-3
+Added Net: Name=NetTP11_1
+Added Member To Class: ClassName=02 ECG Amplifier Member=Component TP8 TestPoint
+Added Member To Class: ClassName=02 ECG Amplifier Member=Component U3 LT1920
+Added Room: Name=02 ECG Amplifier

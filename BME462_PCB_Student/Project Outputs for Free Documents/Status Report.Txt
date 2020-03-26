@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BME462.PcbDoc]
+   Generated File[BME462.TXT]
+   Generated File[BME462.LDP]
+   Generated File[BME462.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:59:23 AM On 12/4/2018
